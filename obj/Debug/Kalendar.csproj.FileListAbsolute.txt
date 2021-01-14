@@ -1,0 +1,9 @@
+P:\dotnet\Kalendar\bin\Debug\Kalendar.exe.config
+P:\dotnet\Kalendar\bin\Debug\Kalendar.exe
+P:\dotnet\Kalendar\bin\Debug\Kalendar.pdb
+P:\dotnet\Kalendar\obj\Debug\Kalendar.Form1.resources
+P:\dotnet\Kalendar\obj\Debug\Kalendar.Properties.Resources.resources
+P:\dotnet\Kalendar\obj\Debug\Kalendar.csproj.GenerateResource.cache
+P:\dotnet\Kalendar\obj\Debug\Kalendar.csproj.CoreCompileInputs.cache
+P:\dotnet\Kalendar\obj\Debug\Kalendar.exe
+P:\dotnet\Kalendar\obj\Debug\Kalendar.pdb
